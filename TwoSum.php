@@ -19,6 +19,8 @@
  * Output: [0,1]
  */
 
+namespace TwoSum;
+
 class Solution
 {
     public static function twoSum2($nums, $target)
